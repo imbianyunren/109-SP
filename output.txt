@@ -1,0 +1,120 @@
+
+==================================================================
+[INFO] Opening Live stream from path : https://www.youtube.com/watch?v=Cp4RRAEgpeU.
+******************************************************************
+Frames per second using video.get(cv2.CAP_PROP_FPS) : 60.0
+******************************************************************
+caught ctrl+c signal...
+******************************************************************
+Remaining frames : 2191
+Remaining times : 0.61 minutes 36.52 seconds
+Remaining people appear frames : 823
+Remaining people appear times : 0.23 minutes 13.72 seconds
+Remaining weighted frames in one hour: 1103
+Remaining weighted times in one hour : 0.01 hours 0.31 minutes 18.38 seconds
+Remaining appears people : 1103
+Remaining average people : 0.5
+******************************************************************
+Total frames : 2191
+Total times : 0.01 hours 0.61 minutes 36.52 seconds
+Total people appears frames : 823
+Total people appears times : 0.0 hours 0.23 minutes 13.72 seconds
+Total weighted frames : 1103
+Total weighted times : 0.01 hours 0.31 minutes 18.38 seconds
+******************************************************************
+Average people in this video : 0.5
+==================================================================
+
+==================================================================
+[INFO] Opening Live stream from path : https://www.youtube.com/watch?v=_c35eYPDr10.
+******************************************************************
+Frames per second using video.get(cv2.CAP_PROP_FPS) : 60.0
+******************************************************************
+caught ctrl+c signal...
+******************************************************************
+Remaining frames : 2942
+Remaining times : 0.82 minutes 49.03 seconds
+Remaining people appear frames : 2360
+Remaining people appear times : 0.66 minutes 39.33 seconds
+Remaining weighted frames in one hour: 7376
+Remaining weighted times in one hour : 0.03 hours 2.05 minutes 2.93 seconds
+Remaining appears people : 7376
+Remaining average people : 2.51
+******************************************************************
+Total frames : 2942
+Total times : 0.01 hours 0.82 minutes 49.03 seconds
+Total people appears frames : 2360
+Total people appears times : 0.01 hours 0.66 minutes 39.33 seconds
+Total weighted frames : 7376
+Total weighted times : 0.03 hours 2.05 minutes 2.93 seconds
+******************************************************************
+Average people in this video : 2.51
+==================================================================
+
+==================================================================
+[INFO] Opening Live stream from path : https://www.youtube.com/watch?v=Cp4RRAEgpeU.
+******************************************************************
+Frames per second using video.get(cv2.CAP_PROP_FPS) : 60.0
+******************************************************************
+Total frames in one hour: 216000
+Total times in one hour: 1.0 hours 0.0 minutes 0.0 seconds
+Total people appears in frames during one hours : 133539
+Total people appears in times during one hours : 0.62 hours 37.09 minutes 5.65 seconds
+Weighted frames in one hour: 623061
+Weighted times in one hour : 2.88 hours 53.07 minutes 4.35 seconds
+Total people appears in one hour: 623061
+Average people in one hour : 3
+******************************************************************
+******************************************************************
+Remaining frames : 147840
+Remaining times : 41.07 minutes 4.0 seconds
+Remaining people appear frames : 147839
+Remaining people appear times : 41.07 minutes 3.98 seconds
+Remaining weighted frames in one hour: 2447994
+Remaining weighted times in one hour : 11.33 hours 20.0 minutes 59.9 seconds
+Remaining appears people : 2447994
+Remaining average people : 16.56
+******************************************************************
+Total frames : 363840
+Total times : 1.68 hours 41.07 minutes 4.0 seconds
+Total people appears frames : 281378
+Total people appears times : 1.3 hours 18.16 minutes 9.63 seconds
+Total weighted frames : 3071055
+Total weighted times : 14.22 hours 13.07 minutes 4.25 seconds
+******************************************************************
+Average people in this video : 8.44
+==================================================================
+
+==================================================================
+[INFO] Opening Live stream from path : https://www.youtube.com/watch?v=Cp4RRAEgpeU.
+******************************************************************
+Frames per second using video.get(cv2.CAP_PROP_FPS) : 60.0
+******************************************************************
+Total frames in one hour: 216000
+Total times in one hour: 1.0 hours 0.0 minutes 0.0 seconds
+Total people appears in frames during one hours : 203535
+Total people appears in times during one hours : 0.94 hours 56.54 minutes 32.25 seconds
+Weighted frames in one hour: 2705272
+Weighted times in one hour : 12.52 hours 31.46 minutes 27.87 seconds
+Total people appears in one hour: 2705272
+Average people in one hour : 13
+******************************************************************
+******************************************************************
+Remaining frames : 153069
+Remaining times : 42.52 minutes 31.15 seconds
+Remaining people appear frames : 153068
+Remaining people appear times : 42.52 minutes 31.13 seconds
+Remaining weighted frames in one hour: 2816111
+Remaining weighted times in one hour : 13.04 hours 2.25 minutes 15.18 seconds
+Remaining appears people : 2816111
+Remaining average people : 18.4
+******************************************************************
+Total frames : 369069
+Total times : 1.71 hours 42.52 minutes 31.15 seconds
+Total people appears frames : 356603
+Total people appears times : 1.65 hours 39.06 minutes 3.38 seconds
+Total weighted frames : 5521383
+Total weighted times : 25.56 hours 33.72 minutes 43.05 seconds
+******************************************************************
+Average people in this video : 14.96
+==================================================================
